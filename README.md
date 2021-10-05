@@ -5,10 +5,10 @@
 
 
 # Buisness Problem
-For our project we chose to look into 
-
+Our stake holder is a seattle based real-estate company. They're looking for Data and information that can help their investments be more profitable.
 
 # Data Understanding
+
 
 # Data Preparation
 
